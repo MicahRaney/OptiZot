@@ -1,5 +1,5 @@
 # OptiZot
-[![Build Status](https://travis-ci.org/MicahRaney/optizot.svg?branch=master)](https://travis-ci.org/MicahRaney/optizot)
+[![Build Status](https://travis-ci.org/MicahRaney/OptiZot.svg?branch=master)](https://travis-ci.org/MicahRaney/OptiZot)
 
 by Micah Raney, based off of [antplanner2](https://github.com/gumho/antplanner2) by Ryan Hsu
 
